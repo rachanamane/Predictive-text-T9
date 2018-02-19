@@ -1,0 +1,14 @@
+a
+ant
+any
+b
+ball
+balloon
+c
+cat
+cater
+d
+dog
+doll
+
+
